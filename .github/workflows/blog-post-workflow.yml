@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2 failynsedik/failynsedik@main
+        uses: actions/checkout
       - name: Pull in medium.com posts
         uses: failynsedik/failynsedik@main
         with:
