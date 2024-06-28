@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fai</h1>
 <h3 align="center">iOS Developer</h3>
 
-- 🔭 I’m currently working on **a budget manager and a recipe app**
+- 🔭 I’m currently working on **a budget manager and a pomodoro app** as my pet projects
 
-- 🌱 I’m currently learning about **Advanced iOS App Architecture**
+- 🌱 I’m currently learning about Clean Code, SOLID Principles and Design Patterns
 
 - 💬 Ask me about **iOS Development**
 
